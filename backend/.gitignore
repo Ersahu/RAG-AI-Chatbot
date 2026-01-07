@@ -1,0 +1,6 @@
+node_modules/
+.env
+uploads/
+vector_store/
+*.log
+.DS_Store
