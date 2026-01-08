@@ -305,7 +305,5 @@ We welcome pull requests! For major changes, please open an issue to discuss wha
 MIT License © 2025 Vaibhav
 For issues or questions, please create an issue in the repository.
 
----
 
-**Built with ❤️ using React, Node.js, LangChain, and OpenAI**
 
