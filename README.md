@@ -36,8 +36,11 @@ A full-stack AI chatbot application using Retrieval-Augmented Generation (RAG) t
 
 ## 📸 Preview
 <img width="1919" height="1199" alt="Screenshot 2026-01-10 162217" src="https://github.com/user-attachments/assets/effe0405-7bca-4878-9b78-11ab1fa2d009" />
+
 <img width="1919" height="1199" alt="Screenshot 2026-01-10 162642" src="https://github.com/user-attachments/assets/eea9c9cd-50b6-4999-bc2f-a531e731a23f" />
+
 <img width="1919" height="1199" alt="Screenshot 2026-01-10 162938" src="https://github.com/user-attachments/assets/ffc54557-6cd0-44e3-aaea-815355c0ef80" />
+
 <img width="1919" height="1199" alt="Screenshot 2026-01-10 162950" src="https://github.com/user-attachments/assets/03f1382f-e214-461d-a78c-e840791383f9" />
 
 
@@ -311,6 +314,7 @@ We welcome pull requests! For major changes, please open an issue to discuss wha
 ## 📜 License
 MIT License © 2025 Vaibhav
 For issues or questions, please create an issue in the repository.
+
 
 
 
